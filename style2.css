@@ -1,0 +1,329 @@
+.h4{
+    margin: 0;
+}
+.colm1{
+    margin-left: 120px;
+    position: absolute;
+}
+.numb1{
+    position: absolute;
+    margin-top:100px ;
+}
+.line2{
+    width: 300px;
+    margin-left:30px;
+    position: absolute;
+    margin-top: 120px;
+}
+.arrow2{
+    width: 60px;
+    height: 60px;
+    margin-left: 350px;
+    position: absolute;
+    margin-top:90px ;
+}
+.image8{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    padding-top: 10px;
+}
+.web1{
+    margin-left: 30px;
+    position: absolute;
+}
+.UI{
+    padding-top:140px ;
+}
+.image9{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    padding-top: 10px;
+    margin-left: 130px;
+}
+.app{
+    margin-left: 160px;
+    position: absolute;
+    width: 150px;
+}
+.image10{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    padding-top: 10px;
+    margin-left: 250px;
+}
+.dash{
+    position: absolute;
+    margin-left: 280px;
+    width: 150px;
+}
+.numb2{
+    position: absolute;
+    margin-top:80px ;
+}
+.line3{
+    width: 300px;
+    margin-left:30px;
+    position: absolute;
+    margin-top: 90px;
+}
+.arrow3{
+    width: 60px;
+    height: 60px;
+    margin-left: 350px;
+    position: absolute;
+    margin-top:60px ;
+}
+.develop{
+    padding-top:110px ;
+}
+.image11{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    padding-top: 10px;
+}
+.web2{
+    margin-left: 30px;
+    position: absolute;
+}
+.image12{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    padding-top: 10px;
+    padding-left:170px ;
+}
+.app2{
+    margin-left: 200px;
+    position: absolute;
+    width: 150px;
+}
+.numb3{
+    position: absolute;
+    margin-top:90px ;
+}
+.line4{
+    width: 300px;
+    margin-left:30px;
+    position: absolute;
+    margin-top: 100px;
+}
+.arrow4{
+    width: 60px;
+    height: 60px;
+    margin-left: 350px;
+    position: absolute;
+    margin-top:70px ;
+}
+.brand{
+    padding-top:120px ;
+}
+.image13{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    padding-top: 10px;
+}
+.brand2{
+    margin-left: 30px;
+    position: absolute;
+}
+.image14{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    padding-top: 10px;
+    padding-left:130px ;
+}
+.brand3{
+    margin-left: 160px;
+    position: absolute;
+    width: 150px;
+}
+.color2{
+    background-color: lemonchiffon;
+    height: 600px;
+}
+.colm2{
+    padding-top: 120px;
+    padding-left: 700px;
+}
+.box4{
+    margin-top: 20px;
+    font-size:larger;
+}
+.button3{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+    margin-top: 50px;
+}
+.tag1{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.tag2{
+    margin-left: 540px;
+}
+.tag3{
+    margin-left: 410px;
+    margin-top: 20px;
+}
+.tag4{
+    margin-left: 470px;
+}
+.button4{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+.button5{
+    background-color: white;
+    color: black;
+    width: 90px;
+    height: 30px;
+}
+.buttontag{
+    margin-left: 400px;
+    margin-top: 40px;
+}
+.arrow7{
+    width: 60px;
+    height: 60px;
+    margin-left: 230px;
+}
+.arrow8{
+    width: 60px;
+    height: 60px;
+    margin-left: 240px;
+}
+.arrow9{
+    width: 60px;
+    height: 60px;
+    margin-left: 240px;
+}
+.building{
+    width: 300px;
+    height: 200px;
+    margin-top: 350px;
+}
+.phone2{
+    width: 300px;
+    height: 200px;
+    margin-top: 350px;
+}
+.game{
+    width: 300px;
+    height: 200px;
+    margin-top: 350px;
+}
+.button6{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+    margin-top: 660px;
+    margin-left: 560px;
+    margin-bottom: 100px;
+}
+.bigpara{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.smile{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.name{
+    margin-left:70px ;
+    padding-top: 10px;
+    position: absolute;
+}
+.designation{
+    margin-left:70px ;
+    margin-top: 50px;
+   
+}
+.square2{
+    width: 300px;
+    height: 270px;
+    background-color: white;
+    position: absolute;
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-top: 290px;
+}
+.square3{
+    width: 300px;
+    height: 270px;
+    background-color: white;
+    position: absolute;
+    border-radius: 20px;
+    margin-left: 790px;
+    margin-top: 290px;
+}
+.input1{
+    margin-top: 60px;
+    width: 300px;
+    height: 30px;
+}
+.input2{
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+}
+.input3{
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+}
+.button7{
+    margin-top: 90px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 150px;
+}
+.colm3{
+    margin-left: 120px;
+    position: absolute; 
+    margin-top: 90px;
+}
+.purple{
+    color: purple;
+    margin-bottom: 100px;
+}
+.lastimage{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    margin-left: 120px;
+    margin-top: 410px;
+    position: absolute;
+}
+.headlast{
+    margin-left: 160px;
+    position: absolute;
+    margin-top: 410px;
+}
+.lasttag{
+    margin-top: 420px;
+    margin-left: 760px;
+    position: absolute;
+}
+.line6{
+    width: 1000px;
+    margin-top: 00px;
+}
+.line7{
+    width: 1000px;
+    margin-top: 500px;
+}

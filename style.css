@@ -1,0 +1,346 @@
+/* general instructions */
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+h3{
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+/* white box */
+.white{
+    height: 600px;
+} 
+/* title */
+.head1{
+    margin-left: 160px;
+    position: absolute;
+    margin-top: 30px;
+}
+/* title links */
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+/* icon img */
+.image1{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    margin-left: 120px;
+    margin-top: 50px;
+    position: absolute;
+}
+/* title bar */
+.head2{
+    margin-top: 30px;
+    margin-left: 580px;
+}
+.padd{
+    padding-right: 70px;
+}
+/* button in title bar */
+.button1{
+    background-color: black;
+    color: white;
+}
+/* different font and color */
+.font1{
+    font-family: 'Courgette', cursive;
+    color: blueviolet;
+}
+/* heading 1 in yellow */
+.head3{
+    margin-left: 120px;
+    position: absolute;
+    margin-top: 90px;
+}
+/* modle image */
+.image2{
+    width: 300px;
+    height: 500px;
+    margin-left: 680px;
+    position: absolute;
+    margin-top: 20px;
+}
+/* paragraph in yellow */
+.para1{
+   margin-top: 220px;
+    margin-left: 120px;
+}
+/* button in yellow */
+.button2{
+    background-color: blueviolet;
+    color: white;
+    margin-left: 120px;
+    margin-top: 30px;
+    width: 70px;
+    height: 30px;
+    position: absolute; 
+}
+/* people profile in yellow */
+.image3{
+    width: 90px;
+    height:40px ;
+    margin-left: 200px;
+    margin-top: 20px;
+    position:absolute;
+}
+/* text beside people img in yellow */
+.head4{
+    margin-left: 300px;
+}
+/* last tittle in yellow */
+.head5{
+    margin-top: 120px;
+    margin-left: 180px;
+    position: absolute;
+}
+/* line to last title in yellow */
+.line1{
+    width: 50px;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 120px;
+}
+/* number & words below modle pic in yellow */
+.table1{
+    margin-top:90px ;
+    margin-left:550px ;
+    position: absolute;
+}
+.table2{
+    margin-top:90px ;
+    margin-left:700px ;
+    position: absolute;
+}
+.table3{
+    margin-top:90px ;
+    margin-left:840px ;
+    position: absolute;
+}
+.table4{
+    margin-top:130px ;
+    margin-left:950px ;
+}
+/* last image in white1 */
+.image7{
+    width: 500px;
+    height: 300px;
+    padding-left: 600px;
+    padding-top: 220px;
+}
+/* phone img in yellow and white */
+.VPN{
+    width: 300px;
+    height: 200px;
+    margin-top: 60px;
+}
+/* website img in yellow and white */
+.websiteimg{
+    width: 300px;
+    height: 200px;
+    margin-top: 60px;
+}
+/* graph img in yello and white */
+.graphimg{
+    width: 300px;
+    height: 200px;
+    margin-top: 60px;
+}
+/* div1 for img1 in white */
+.product1{
+    margin-left: 120px;
+    position: absolute;
+}
+/* div2 for img2 in white */
+.product2{
+    margin-left: 450px;
+    position: absolute;
+}
+.product3{
+    margin-left: 780px;
+    position: absolute;
+}
+.color{
+    background-color: lemonchiffon;
+    height: 750px;
+}
+.box1{
+    margin-top: 100px;
+    padding-top: 180px;
+    position: absolute;
+    margin-left: 120px;
+}
+.box2{
+    padding-top: 380px;
+    position: absolute;
+    margin-left: 120px;
+}
+.box3{
+    padding-top: 480px;
+    position: absolute; 
+    margin-left: 120px;
+}
+.arrow1{
+    width: 60px;
+    height: 60px;
+    margin-left: 230px;
+}
+.commonheading{
+    position: absolute;
+    width: 200px;
+    margin: o;
+}
+.commonpara{
+    position: absolute;
+    margin-top: 30px;
+    width: 200px;
+}
+.commonheading2{
+    position: absolute;
+    width: 300px;
+    margin: o;
+}
+.arrow5{
+    width: 60px;
+    height: 60px;
+    margin-left: 240px;
+}
+.arrow6{
+    width: 60px;
+    height: 60px;
+    margin-left: 240px;
+}
+.square1{
+    width: 300px;
+    height: 270px;
+    background-color: white;
+    position: absolute;
+    border-radius: 20px;
+    margin-left: 120px;
+    margin-top: 290px;
+}
+.commas{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: 20px;
+}
+.line5{
+    width: 200px;
+    margin-top: 40px;
+}
+.clients{
+    margin-top: 100px;
+    position: absolute;
+    margin-left: 120px;
+}
+.limits{
+    padding-top: 150px;
+    position: absolute;
+    margin-left: 120px;
+}
+.arrow10{
+    width: 60px;
+    height: 60px;
+    margin-left: 1050px;
+    position: absolute;
+    margin-top: 100px;
+}
+.arrow11{
+    width: 80px;
+    height: 80px;
+    margin-left: 1100px;
+    position: absolute;
+    margin-top: 90px;
+}
+.last{
+    margin-top: 20px;
+    font-size:larger;
+    padding-bottom: 40px;
+}
+.color4{
+    background-color: yellow;
+    height: 600px;
+}
+.facebook{
+    background-color: white;
+    width: 320px;
+    height: 60px;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 200px;
+}
+.write{
+    position: absolute;
+    padding: 10px;
+}
+.book{
+    margin-left: 250px;
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+}
+.book3{
+    border-radius: 100%;
+    margin-left: 250px;
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+}
+.instagram{
+    background-color: white;
+    width: 320px;
+    height: 60px;
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 200px;
+}
+.increase{
+    height: 500px;
+}
+.twitter{
+    background-color: white;
+    width: 320px;
+    height: 60px;
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 200px;
+}
+.linkedin{
+    background-color: white;
+    width: 320px;
+    height: 60px;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 300px;
+}
+.dribbble{
+    background-color: white;
+    width: 320px;
+    height: 60px;
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 300px;
+}
+.behance{
+    background-color: white;
+    width: 320px;
+    height: 60px;
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 300px;
+}
+.book2{
+    margin-left: 250px;
+    padding: 10px;
+    border-radius: 100%;
+    width: 30px;
+    padding: 20px;
+    position: absolute;
+}
